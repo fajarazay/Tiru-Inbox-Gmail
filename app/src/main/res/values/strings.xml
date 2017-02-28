@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tiru List Inbox Gmail</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_delete">Delete</string>
+</resources>
